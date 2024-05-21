@@ -1,5 +1,5 @@
 [WIP]
-### Some of my projects might be murrsuit related / NSFW, please be aware 
+### Some of my projects might be murrsuit related / NSFW, please be aware
 
 Hi, i'm wolvinny, a 20yo fluffy corgi.
 I fursuit in my free time, and I'm a software developer in whatever thats left of my free time. I am experienced in NodeJS and TypeScript, but also Java.
