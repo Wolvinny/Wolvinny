@@ -10,4 +10,4 @@ I have a mostly aviation background, but ive chosen for drones, though i am plan
 
 Most things i've coded are private discord bots, and some small minecraft plugins.
 I own https://we-dont.care and https://we-dont-fucking.care , along with https://wolvinny.dev and https://treble-is-fluffy.gay, the latter just as a cdn.
-I dont really have frontend experience, nor time to learn it, so these sites are mostly empty
+I dont really have frontend experience, nor time to learn it, so these sites are mostly empty or even just non functional since the host they were on shut down and i dont have time to transfer it to cf pages
