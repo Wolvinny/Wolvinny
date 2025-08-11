@@ -1,11 +1,11 @@
 [WIP]
 ### Some of my projects might be murrsuit related / NSFW, please be aware
 
-Hi, i'm wolvinny, a 20yo fluffy corgi.
+Hi, i'm wolvinny, or Luna, a 21yo fluffy corgi.
 I fursuit in my free time, and I'm a software developer in whatever thats left of my free time. I am experienced in NodeJS and TypeScript, but also Java.
 Coding is not my main focus, nor do i plan to make it more than a hobby; it merely is a free time activity.
 
-In my regular day to day life i currently am in my last year of college, after that i'll get enrolled into everything that has to do with drones, whether its flying them, maintaining them, filing flight plans, etc.
+In my regular day to day life i am a fulltime service engineer / technician, and doing stuff ranging from regular inspections in factories, on ships, on chemical plants, etc, to inspections on offshore windmills.
 I have a mostly aviation background, but ive chosen for drones, though i am planning to get my PPL.
 
 Most things i've coded are private discord bots, and some small minecraft plugins.
